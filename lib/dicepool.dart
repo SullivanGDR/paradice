@@ -6,9 +6,6 @@ import 'dice.dart';
 /// Elle contient les listes privées '_lesDices' qui contient
 /// les dés, et '_lesResultats' qui contient les résultats
 /// du dernier lancer de dés.
-///
-/// Puis une méthode lancer() qui permet de lancer le dé
-/// et de mettre à jour '_res'.
 
 abstract class Dicepool {
   // Attributs
