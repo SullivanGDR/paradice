@@ -57,4 +57,4 @@ Ces fichiers ont tous le même but, c'est de créer un dé, (6, 10, 20, 100, et 
 Ce sont les deux fichiers permettant d'afficher le rendu sous Flutter pour l'application mobile.
 
 
-Application réalise part Gendre Sullivan - 2023
+Application réalisée part Gendre Sullivan - 2023
